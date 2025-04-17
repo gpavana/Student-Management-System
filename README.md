@@ -1,11 +1,11 @@
 
-# 🧑‍🎓 Student Management System
+# Student Management System
 
 This is a full-stack **Student Management System** application developed using **React** for the frontend and **Spring Boot** for the backend. It allows users to manage student data through features like adding, editing, viewing, and deleting student records.
 
 ---
 
-## 🌟 Features
+##  Features
 
 - Add new student records
 - Edit existing student details
@@ -22,7 +22,7 @@ This is a full-stack **Student Management System** application developed using *
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -40,7 +40,7 @@ This is a full-stack **Student Management System** application developed using *
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 student-management-system/
@@ -61,18 +61,18 @@ student-management-system/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
-cd student-management-system
+git clone https://github.com/gpavana/Student-Management-System.git
+cd Student-Management-System
 ```
 
 ---
 
-## ⚛️ Frontend Setup (React)
+##  Frontend Setup (React)
 
 ### Prerequisites
 
@@ -87,11 +87,11 @@ npm start
 ```
 
 The frontend will run at:  
-📍 `http://localhost:3000`
+ `http://localhost:3000`
 
 ---
 
-## 🔧 Backend Setup (Spring Boot)
+##  Backend Setup (Spring Boot)
 
 ### Prerequisites
 
@@ -111,11 +111,11 @@ cd backend
 ```
 
 The backend will run at:  
-📍 `http://localhost:8080`
+ `http://localhost:8080`
 
 ---
 
-## 🧠 Notes
+##  Notes
 
 - Ensure backend is running before using the frontend.
 - You can reset auto-increment in MySQL using:
@@ -125,6 +125,4 @@ The backend will run at:
 
 ---
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
